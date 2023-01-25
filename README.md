@@ -1,19 +1,16 @@
 <center>
      <h1>开到荼蘼</h1>
      <div>
-         <span>      
+         <p>      
            🌈  13951905171
-         </span>
-           <span>      
+         </p>
+           <p>      
            💫   16422802@qq.com
-         </span>
-         ·
-         ·
-         <span>
+         </p>
+         <p>
            <img src="https://avatars.githubusercontent.com/u/8722818?v=4" width="36px">
              <a href="https://github.com/ssy-studio">我的Github</a>
-         </span>
-         ·
+         </p>
      </div>
  </center>
  
